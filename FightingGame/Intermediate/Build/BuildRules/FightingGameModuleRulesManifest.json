@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/tristandahl/Documents/Unreal Projects/FightingGame/Source/FightingGame/FightingGame.Build.cs",
+		"/Users/tristandahl/Documents/Unreal Projects/FightingGame/Source/FightingGame.Target.cs",
+		"/Users/tristandahl/Documents/Unreal Projects/FightingGame/Source/FightingGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
